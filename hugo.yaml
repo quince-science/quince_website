@@ -1,0 +1,43 @@
+baseurl: "https://quince.science/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "QuinCe"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Go To App
+      url: "https://app.quince.science"
+      weight: 2
+    - name: Tutorials
+      url: "tutorials/"
+      weight: 3
+
+params:
+  description: ""
+  footer: "FOOTER IN hugo.yaml"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
