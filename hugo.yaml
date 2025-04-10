@@ -12,16 +12,19 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Go To App
+    - name: Go To The App
       url: "https://app.quince.science"
       weight: 2
     - name: Tutorials
       url: "tutorials/"
       weight: 3
+    - name: Background
+      url: "background/"
+      weight: 4
 
 params:
   description: ""
-  footer: "FOOTER IN hugo.yaml"
+  footer: "Web Page Copyright © 2025 Steve Jones"
 
 markup:
   highlight:
