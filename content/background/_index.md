@@ -51,7 +51,7 @@ QuinCe has been developed at the University of Exeter (UK), University of Bergen
 
 [![Flanders Marine Institute](/vliz.png)](https://www.vliz.be)
 
-[![European Union](/eu.png)](https://commission.europa.eu/index_en)
+[![European Union](/eu.png)](https://rea.ec.europa.eu/index_en)
 
 [![ICOS OTC](/icos_otc.png)](https://otc.icos-cp.eu/)
 
