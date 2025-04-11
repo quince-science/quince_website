@@ -22,8 +22,8 @@ QuinCe is a web-based tool for processing and quality control of data collected 
 ![QuinCe screenshot](/qc_screenshot.png)
 
 ### Using QuinCe
-This site hosts a publicly accessible version of the [QuinCe app](https://app.quince.science) for anyone to use. You can register an account with your email address, and use the [Tutorials](https://quince.science/tutorials) to learn how to use it. Automated data workflow tools are not available for this version, and support is limited. However, you can email [steve.jones@vliz.be](mailto:steve.jones@vliz.be) if you have questions.
+This site hosts a publicly accessible version of the [QuinCe app](https://app.quince.science) for anyone to use. You can register an account with your email address, and use the [Tutorials](https://quince.science/tutorials) to learn how to use it. Automated data workflow tools are not available for this version, and support is limited. However, you can email [quince@quince.science](mailto:quince@quince.science) if you have questions.
 
-QuinCe can be deployed by anyone wishing to provide more comprehensive support for their own institution or project, and to set up automated data flows using the API. Contact [steve.jones@vliz.be](mailto:steve.jones@vliz.be) for more information.
+QuinCe can be deployed by anyone wishing to provide more comprehensive support for their own institution or project, and to set up automated data flows using the API. Contact [quince@quince.science](mailto:quince@quince.science) for more information.
 
 QuinCe is licenced under [GPL v3.0](https://github.com/quince-science/QuinCe/blob/master/LICENSE).
